@@ -175,7 +175,7 @@
                         
                                 <!-- Footer-->   
    <div id="footer" style="width:100%;margin-left:-1px; padding-bottom:20px;"><br>
-        <center><p style="color: white; font-family: cursive; margin-top: 10px; font-size: 15px; margin-left:40%">SWARAJYA MESS<br> Shivbasav Nagar, Belgaum , 590010</p></center>
+        <center><p style="color: white; font-family: cursive; margin-top: 10px; font-size: 15px; margin-left:40%">HOSTEL MESS<br> Shivbasav Nagar, Belgaum , 590010</p></center>
         <center><p style="margin-top: 10px; font-size: 15px; margin-left:40%; color: white;">Copyright &copy; 2024 -All Rights Reserved</p></center>
     </div> 
 </body>
