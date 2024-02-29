@@ -166,7 +166,7 @@
      </div> 
     
      <div id="content1" >
-         <img src="img/user.png" width="200px" height="250px" style="border: 5px black;">
+         <img src="img/user.png" width="250px" height="250px" style="border: 5px black;">
          <p style="text-align: center;"> <b> Manager: </b> Prof. XYZ<br />
                                          <b> Telephone: </b> 6969696969 <br/>
                                          <b> E-mail: </b> @gmail.com 
